@@ -1,0 +1,31 @@
+{
+  "name": "data-addict-training-reduce-the-world",
+  "version": "1.0.0",
+  "description": "Data transformation exercises. For my data addicts. « Reduce The World »",
+  "main": "index.js",
+  "bin": "./data-addict-training-reduce-the-world.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasduteil/data-addict-training-reduce-the-world.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Douglas Duteil",
+    "email": "douglasduteil@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/data-addict-training-reduce-the-world/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/data-addict-training-reduce-the-world#readme",
+  "dependencies": {
+    "lodash.defaults": "^3.1.2",
+    "lodash.random": "^3.0.1",
+    "workshopper": "^2.7.0",
+    "workshopper-node-default-exports-runner": "^1.0.0"
+  }
+}
